@@ -16,7 +16,7 @@ How to make it work:
 	- light sources in direct view
 	- Any objects close enough for you to cast your shadow on them during play
 -Your background should be a different colour to yourself. 
--To launch the game use the command: python level*.py
+-To launch the game use the command: `python level*.py`
 -When the game starts you should be out of frame to allow the program to take a picture of your background.
 -If you need to take another picture of the background press the space bar while out of frame.
 
